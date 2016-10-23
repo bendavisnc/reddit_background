@@ -1,0 +1,118 @@
+----------------------------------------
+Sat Oct 22 21:14:49 EDT 2016
+Trying to fetch http://www.reddit.com/r/RoomPorn/.
+Deleted ./reddit_background.jpg.
+Saved background image file.
+----------------------------------------
+Sat Oct 22 21:18:54 EDT 2016
+Trying to fetch http://www.reddit.com/r/RoomPorn/.
+Saved background image file (from http://i.imgur.com/ZsOybGm.jpg).
+"Elapsed time: 2242.603132 msecs"
+----------------------------------------
+Sat Oct 22 21:21:29 EDT 2016
+Trying to fetch http://www.reddit.com/r/RoomPorn/.
+Saved background image file (from http://i.imgur.com/PLarjXZ.jpg).
+"Elapsed time: 2757.007464 msecs"
+----------------------------------------
+Sat Oct 22 21:23:22 EDT 2016
+Trying to fetch http://www.reddit.com/r/RoomPorn/.
+Saved background image file (from http://i.imgur.com/TokCN5P.jpg).
+Problem in trying to set background.
+Going to try 10 more times.
+Saved background image file (from http://i.imgur.com/vcemOoy.jpg).
+"Elapsed time: 2866.185363 msecs"
+----------------------------------------
+Sat Oct 22 21:29:31 EDT 2016
+Trying to fetch http://www.reddit.com/r/RoomPorn/.
+Saved background image file (from http://i.imgur.com/QKgf3UI.jpg).
+"Elapsed time: 1821.803616 msecs"
+----------------------------------------
+Sat Oct 22 21:33:06 EDT 2016
+Trying to fetch http://www.reddit.com/r/RoomPorn/.
+Saved background image file (from http://i.imgur.com/SJs5Zn0.jpg).
+"Elapsed time: 3663.720606 msecs"
+----------------------------------------
+Sat Oct 22 21:35:36 EDT 2016
+Trying to fetch http://www.reddit.com/r/RoomPorn/.
+Saved background image file (from http://i.imgur.com/NRcuNgu.jpg).
+"Elapsed time: 2341.61682 msecs"
+----------------------------------------
+Sat Oct 22 21:39:12 EDT 2016
+Trying to fetch http://www.reddit.com/r/RoomPorn/.
+Saved background image file (from http://i.imgur.com/QKgf3UI.jpg).
+"Elapsed time: 3632.407944 msecs"
+----------------------------------------
+Sat Oct 22 21:45:27 EDT 2016
+Trying to fetch http://www.reddit.com/r/Lego/.
+Connection timed out.
+Trying again in 30 seconds.
+Trying to fetch http://www.reddit.com/r/Lego/.
+Saved background image file (from http://i.imgur.com/QWhw36i.jpg).
+"Elapsed time: 32744.733587 msecs"
+----------------------------------------
+Sat Oct 22 21:48:02 EDT 2016
+Trying to fetch http://www.reddit.com/r/Lego/.
+Connection timed out.
+Trying again in 30 seconds.
+Trying to fetch http://www.reddit.com/r/Lego/.
+Saved background image file (from http://i.imgur.com/VU8Z1sF.jpg).
+"Elapsed time: 33491.878413 msecs"
+----------------------------------------
+Sat Oct 22 22:09:52 EDT 2016
+Trying to fetch http://www.reddit.com/r/Lego/.
+Connection timed out.
+Trying again in 30 seconds.
+Trying to fetch http://www.reddit.com/r/Lego/.
+Saved background image file (from http://i.imgur.com/QWhw36i.jpg).
+"Elapsed time: 34808.260091 msecs"
+----------------------------------------
+Sat Oct 22 22:11:07 EDT 2016
+Trying to fetch http://www.reddit.com/r/Lego/.
+Connection timed out.
+Trying again in 30 seconds.
+Trying to fetch http://www.reddit.com/r/Lego/.
+Saved background image file (from http://i.imgur.com/QWhw36i.jpg).
+"Elapsed time: 32566.924567 msecs"
+----------------------------------------
+Sat Oct 22 22:13:39 EDT 2016
+Trying to fetch http://www.reddit.com/r/Lego/.
+Connection timed out.
+Trying again in 30 seconds.
+Trying to fetch http://www.reddit.com/r/Lego/.
+Saved background image file (from http://i.imgur.com/QWhw36i.jpg).
+"Elapsed time: 35924.226137 msecs"
+----------------------------------------
+Sun Oct 23 09:17:16 EDT 2016
+Trying to fetch http://www.reddit.com/r/BikePorn/.
+Connection timed out.
+Trying again in 30 seconds.
+Trying to fetch http://www.reddit.com/r/BikePorn/.
+Saved background image file (from https://lh3.googleusercontent.com/-6h8HY-w-e6Q/WAg5whk0N1I/AAAAAAAAD1o/l-hN-rn1Yh0CoBSoMXBZzHba4ZJBQdDRgCL0B/s2000/Wilier-Triestina-Zero7-Shimano-Dura-Ace-R9100-Complete-Bike-01.jpg).
+"Elapsed time: 33345.187828 msecs"
+----------------------------------------
+Sun Oct 23 09:49:51 EDT 2016
+Trying to fetch http://www.reddit.com/r/BikePorn/.
+2 links to choose from.
+Saved background image file (from https://lh4.googleusercontent.com/-EmH97QJviXc/WAVcVI3cgQI/AAAAAAAADz8/I-q7VaaZRiABC1Ty6csHyEOAy8oaMECTwCL0B/s2000/Cipollini-NK1K-SRAM-Red-Hyrdo-Complete-Bike-01.jpg).
+"Elapsed time: 2007.393772 msecs"
+----------------------------------------
+Sun Oct 23 09:50:49 EDT 2016
+Trying to fetch http://www.reddit.com/r/BikePorn/.
+2 links to choose from.
+Saved background image file (from https://lh3.googleusercontent.com/-6h8HY-w-e6Q/WAg5whk0N1I/AAAAAAAAD1o/l-hN-rn1Yh0CoBSoMXBZzHba4ZJBQdDRgCL0B/s2000/Wilier-Triestina-Zero7-Shimano-Dura-Ace-R9100-Complete-Bike-01.jpg).
+"Elapsed time: 3114.739865 msecs"
+----------------------------------------
+Sun Oct 23 10:03:23 EDT 2016
+Trying to fetch http://www.reddit.com/r/BikePorn/.
+Connection timed out.
+Trying again in 30 seconds.
+Trying to fetch http://www.reddit.com/r/BikePorn/.
+2 links to choose from.
+Saved background image file (from https://lh3.googleusercontent.com/-6h8HY-w-e6Q/WAg5whk0N1I/AAAAAAAAD1o/l-hN-rn1Yh0CoBSoMXBZzHba4ZJBQdDRgCL0B/s2000/Wilier-Triestina-Zero7-Shimano-Dura-Ace-R9100-Complete-Bike-01.jpg).
+"Elapsed time: 34298.012014 msecs"
+----------------------------------------
+Sun Oct 23 11:19:31 EDT 2016
+Trying to fetch http://www.reddit.com/r/MostBeautiful/.
+20 links to choose from.
+Saved background image file (from http://i.imgur.com/5D4ewgv.jpg).
+"Elapsed time: 3119.019552 msecs"

@@ -1,0 +1,17 @@
+{
+	"days": {
+		"monday" : "http://www.reddit.com/r/CityPorn/",
+		"tuesday" : "http://www.reddit.com/r/EarthPorn/",
+		"wednesday" : "http://www.reddit.com/r/RoomPorn/",
+		"thursday" : "http://www.reddit.com/r/SpacePorn/",
+		"friday" : "http://www.reddit.com/r/CityPorn/",
+		"saturday" : "http://www.reddit.com/r/Lego/",
+		"sunday" : "http://www.reddit.com/r/MostBeautiful/"
+		},
+
+	"background-set-command" : "gsettings set org.gnome.desktop.background picture-uri file://%s && gsettings set org.gnome.desktop.background picture-options scaled",
+
+	"logging" : true,
+
+	"keep-files" : true
+}
